@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "added script sh"
+echo "script added to run in jenkins"
